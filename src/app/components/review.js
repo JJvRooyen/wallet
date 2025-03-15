@@ -7,7 +7,7 @@ export default function Review() {
             <div className="h-133 rounded-[20px] max-w-6xl bg-[#BFAFF2] px-15 py-32 md:py-40 lg:px-25 lg:py-40 mx-10">
                 <h1 className="sm:text-lg lg:text-2xl font-semibold">
                     Wallet is a great product! All of my most important information is there - credit cards, transit cards, boarding passes, tickets, and more. And I do not need to worry because
-                    it is all in one place! Thanks
+                    it is all in one place! Thanks!
                 </h1>
 
                 <div className="flex items-center mt-4">
