@@ -10,7 +10,7 @@ export default function HeroSection() {
           Everything, in one place, safe
         </h1>
         <p className="mt-6 text-white text-lg leading-relaxed max-w-xl">
-          Wallet keeps everything safe - cards, money, photos. If it fits, it's safe. Wallet, the tool to keep your valuables safe.
+          Wallet keeps everything safe - cards, money, photos. If it fits, it&apos;s safe. Wallet, the tool to keep your valuables safe.
         </p>
         <Link href="/" className="mt-6">
           <button className="bg-[#F8D57E] w-[175px] h-14 rounded-[15px] text-lg font-normal text-gray-800 px-6 py-2">
