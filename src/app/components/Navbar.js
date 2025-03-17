@@ -15,11 +15,11 @@ export default function Navbar() {
                     color="white"
                     />
                 </button>
-                <Link href={"/SignUp"} className="text-white text-lg font-medium hidden lg:block">
+                <Link href={"/pages/signup-page"} className="text-white text-lg font-medium hidden lg:block">
                 Sign Up
                 </Link>
                 <button className="bg-[#BFAFF2] w-[175] h-14 rounded-[15] text-lg font-normal text-grey-200 hidden lg:block">
-                    <Link href={"/Login"} className="h-auto font-normal">Log in</Link>
+                    <Link href={"/pages/login-page/"} className="h-auto font-normal">Log in</Link>
                 </button>
             </div>
         </nav>
